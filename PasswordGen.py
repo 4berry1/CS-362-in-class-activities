@@ -1,2 +1,5 @@
+import random
+
 def passGen(a):
-    pass
+    for i in range (0, a):
+        print(rand)
